@@ -785,5 +785,12 @@ a:focus {
   .right1{
     margin-right: 0vh;
   }
+
+  .flex1-item h1{
+    font-size: 1.4rem;
+    color: #000000;
+    text-align: center;
+  
+  }
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */
